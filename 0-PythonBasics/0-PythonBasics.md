@@ -8,7 +8,9 @@ print("Hello World")
 
 ## Variables
 
-## Nunmbers - ints and floats
+Variable - container for value which can change over time.
+
+## Numbers - ints and floats
 
 ## Strings
 
